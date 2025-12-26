@@ -1,0 +1,115 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Engenharia Civil | Pavimentação e Terraplanagem</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+    }
+    header {
+      background: #0d3b66;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #1d3557;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 30px;
+      max-width: 1000px;
+      margin: 20px auto;
+      background: #fff;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #0d3b66;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    footer {
+      background: #0d3b66;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Plataforma de Estudos – Engenharia Civil</h1>
+  <p>Pavimentação • Terraplanagem • Infraestrutura</p>
+</header>
+
+<nav>
+  <a href="#inicio">Início</a>
+  <a href="#modulos">Módulos</a>
+  <a href="#rotina">Rotina de Estudo</a>
+  <a href="#objetivo">Objetivo Final</a>
+</nav>
+
+<section id="inicio">
+  <h2>Bem-vindo, Gabriel</h2>
+  <p>
+    Este site foi criado exclusivamente para seu aprendizado em Engenharia Civil,
+    do zero ao nível profissional, com foco em pavimentação e terraplanagem.
+  </p>
+</section>
+
+<section id="modulos">
+  <h2>Módulos de Estudo (ordem obrigatória)</h2>
+  <ul>
+    <li>Módulo 0 – Base do Engenheiro Civil</li>
+    <li>Módulo 1 – Mecânica dos Solos</li>
+    <li>Módulo 2 – Topografia Aplicada</li>
+    <li>Módulo 3 – Terraplanagem Completa</li>
+    <li>Módulo 4 – Pavimentação (DNIT / DER)</li>
+    <li>Módulo 5 – Drenagem de Obras</li>
+    <li>Módulo 6 – Orçamento e Medições</li>
+    <li>Módulo 7 – Gestão de Obras</li>
+    <li>Módulo 8 – Softwares (Civil 3D, Excel, Project)</li>
+  </ul>
+</section>
+
+<section id="rotina">
+  <h2>Rotina de Estudo Recomendada</h2>
+  <ul>
+    <li>40 min – PDF / teoria</li>
+    <li>40 min – Videoaula</li>
+    <li>40 min – Exercícios ou revisão</li>
+  </ul>
+</section>
+
+<section id="objetivo">
+  <h2>Objetivo Final</h2>
+  <p>
+    Formar um engenheiro civil altamente qualificado,
+    referência em pavimentação e terraplanagem,
+    com domínio técnico, prático e gerencial.
+  </p>
+</section>
+
+<footer>
+  <p>Site pessoal de estudos – Engenharia Civil © Gabriel Henrique Martins</p>
+</footer>
+
+</body>
+</html>
